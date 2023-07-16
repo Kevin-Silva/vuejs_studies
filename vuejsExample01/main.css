@@ -1,0 +1,8 @@
+.priority {
+    color: #de751f;
+}
+input[type="checkbox"]{
+    display: inline !important;
+    box-shadow: none;
+    width: auto;
+}
